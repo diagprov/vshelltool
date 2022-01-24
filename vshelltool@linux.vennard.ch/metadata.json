@@ -1,0 +1,8 @@
+{
+  "name": "VShell",
+  "description": "VShell Tools",
+  "uuid": "vshelltool@linux.vennard.ch",
+  "shell-version": [
+    "41"
+  ]
+}
